@@ -18,6 +18,8 @@ One-tap Sign-up
 
 This is a feature from `Google <https://developers.google.com/identity/one-tap/web/>`_. Sign up new users with just one tap, without interrupting them with a sign-up screen. Users get a secure, token-based, passwordless account on your site, protected by their Google Account.
 
+NOTE:  This will only popup where you have a shortcode that calls the login form
+
 .. figure:: /images/auth/get-google-client-id.png
     :scale: 70%
     :align: center
